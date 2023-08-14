@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="vuive.png" width="160" height="100"/>
+</div>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungIsOnGithhub&hide_progress=true)
 <!--
 **trungIsOnGithhub/trungIsOnGithhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
