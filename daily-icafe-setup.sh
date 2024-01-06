@@ -2,3 +2,5 @@ echo 'https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.12-signed.ms
 echo 'https://nodejs.org/download/release/v18.19.0/node-v18.19.0-x64.msi'
 echo 'https://code.visualstudio.com/docs/?dv=win64user'
 echo 'https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe'
+echo 'https://download.visualstudio.microsoft.com/download/pr/9586e48b-349b-4dbe-9f05-f92fe03267c6/b9d2bd405044fe135ac73c85904e93ae/dotnet-sdk-6.0.125-win-x64.exe'
+echo 'https://download.oracle.com/java/17/archive/jdk-17.0.2_windows-x64_bin.msi'
